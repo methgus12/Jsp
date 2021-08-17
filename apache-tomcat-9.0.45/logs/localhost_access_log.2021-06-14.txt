@@ -1,0 +1,15 @@
+127.0.0.1 - - [14/Jun/2021:16:51:30 +0900] "GET / HTTP/1.1" 200 11355
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:16:51:30 +0900] "GET /MyWeb/board/board_list.jsp HTTP/1.1" 200 5305
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:16:51:30 +0900] "GET /MyWeb/css/bootstrap.css HTTP/1.1" 200 146010
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:16:51:30 +0900] "GET /MyWeb/board/js/bootstrap.min.js HTTP/1.1" 404 850
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:16:51:30 +0900] "GET /MyWeb/board/js/jquery.js HTTP/1.1" 404 843
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:16:51:30 +0900] "GET /MyWeb/board/js/bootstrap.min.js HTTP/1.1" 404 850
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:16:51:30 +0900] "GET /MyWeb/img/bg.jpg HTTP/1.1" 200 152880
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:16:51:39 +0900] "GET /MyWeb/board/list.board?pageNum=0&&amount= HTTP/1.1" 200 5305
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:16:51:39 +0900] "GET /MyWeb/board/js/jquery.js HTTP/1.1" 404 843
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:16:51:39 +0900] "GET /MyWeb/board/js/bootstrap.min.js HTTP/1.1" 404 850
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:16:51:42 +0900] "GET /MyWeb/css/bootstrap.css.map HTTP/1.1" 404 842
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:17:32:52 +0900] "GET /MyWeb/board/board_write.jsp HTTP/1.1" 200 4147
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:17:32:52 +0900] "GET /MyWeb/board/js/bootstrap.min.js HTTP/1.1" 404 850
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:17:32:52 +0900] "GET /MyWeb/board/js/jquery.js HTTP/1.1" 404 843
+0:0:0:0:0:0:0:1 - - [14/Jun/2021:17:32:52 +0900] "GET /MyWeb/board/js/bootstrap.min.js HTTP/1.1" 404 850

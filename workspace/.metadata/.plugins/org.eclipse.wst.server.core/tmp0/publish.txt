@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Wed Jun 23 18:07:51 KST 2021
+org.eclipse.jst.jee.server\:TestWeb=/Users/sohyeon/Desktop/Java/jsp/apache-tomcat-9.0.45/wtpwebapps/TestWeb
+org.eclipse.jst.jee.server\:MyWeb=/Users/sohyeon/Desktop/Java/jsp/apache-tomcat-9.0.45/wtpwebapps/MyWeb
+org.eclipse.jst.jee.server\:JSPExam=/Users/sohyeon/Desktop/Java/jsp/apache-tomcat-9.0.45/wtpwebapps/JSPExam
+org.eclipse.jst.jee.server\:VanpWeb=/Users/sohyeon/Desktop/Java/jsp/apache-tomcat-9.0.45/wtpwebapps/VanpWeb

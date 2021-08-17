@@ -1,0 +1,9 @@
+create table vanps (
+
+id varchar2(50) primary key,
+pw varchar2(50) not null,
+name varchar2(50) not null,
+phone varchar2(50) not null,
+gender varchar2(10) 
+constraint gender check (gender in('MAN' ,'WOMAN'))
+);

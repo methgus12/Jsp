@@ -1,0 +1,177 @@
+@charset "UTF-8";
+/*메인게시판*/
+.b-group {
+    background-color: black;
+    height: 50px;
+    margin-top: 20px;
+    line-height: 50px;
+}
+.board-list-home > a{
+    text-align: center;
+   color: white;
+   text-decoration: none;
+   
+}
+.b-group > .board-list > a{
+   text-align: center;
+   color: white;
+   text-decoration: none;
+}
+.b-group > .board-list {
+    margin-left: 200px;
+}
+
+.board-video >video {
+    margin-top: 0;
+   
+   
+}
+.board-video{
+    padding:0px;
+}
+
+@media(max-width:1240px) {
+    .board-list > a {
+        display: none;
+    }
+}
+
+@media(min-width:991px) {
+    .video-info{
+        display: none;
+    }
+
+}
+
+
+
+@media(max-width:991px) {
+    .video-group{
+       margin-top: 100px;
+    }
+
+}
+
+
+@media(max-width:767px) {
+    .video-info{
+        display: none;
+    }
+
+}
+@media(max-width:1245px) {
+    .foot{
+          
+       margin: 361px;   
+       margin-top: 500px;
+    }
+
+ 
+
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+.video-info {
+    float: right;
+   text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.video-group{
+    position: relative;
+    height: 100%;
+
+}
+
+/*자바 게시판*/
+.code-group {
+    margin: 0 auto;
+    height: 300px;
+}
+
+.code-group > .code-title {
+    margin-top: 50px;
+    text-align: center;
+   
+}
+
+.code-title > a{
+    color: black;
+    text-decoration: none;
+    margin-top: 50px;
+    
+}
+.code-box {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #777;
+    display: inline-block;
+}
+.code-title {
+    width: 100%;
+}
+.code-box > .code-title > .p-num{
+   float: left;
+   width: 10%;
+   border-right: 0.5px solid #777;
+ 
+}
+.code-box > .code-title > .p-title{
+   float: left;
+   width: 50%;
+   border-right: 0.5px solid #777;
+ 
+}
+.code-box > .code-title > .p-id{
+   float: left;
+   width: 25%;
+   border-right: 0.5px solid #777;
+ 
+}
+.code-box > .code-title > .p-date{
+   float: left;
+   width: 15%;
+}
+
+.board-btn {
+    border: none;
+    width: 100px;
+    background-color: white;
+    color: black;
+    float: right;
+}
+
+/*글작성 CSS*/
+
+.container > .w-group {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.w-box {
+    margin-top: 20px;
+}
+.w-box > label {
+    width: 50px;
+}
+.textbox {
+    border: 1px solid black;
+    width: 600px;
+    height: 400px;
+}
+.w-box > .w-inner {
+    border: 1px solid black;
+    width: 540px;
+    height: 35px;
+}
+
+

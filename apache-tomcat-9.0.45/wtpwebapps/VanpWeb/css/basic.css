@@ -1,0 +1,50 @@
+.inner-logo {
+    text-align: center;
+}
+.inner-logo > a{
+    font-size: 4em;
+    font-weight: 100;
+    color: black;
+    text-decoration: none;
+}
+.inner-list{
+text-align: center;
+margin-top: 20px;
+}
+.inner-list > a{
+    color:black;
+    text-decoration: none;
+    width: 20%;
+   
+    margin: 0 20px;
+    
+}
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+/*배경동영상*/
+
+video {
+    margin-top: 30px;
+}
+
+/*Footer*/
+.foot {
+    margin-top: 150px;
+}
+.foot > ul {
+    text-align: center;
+}
+.foot > ul > li {
+    text-decoration: none;
+    list-style: none;
+}
+.foot > ul > li > a{
+    color: black; 
+}
+
+
+

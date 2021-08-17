@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.for-pw {
+    width: 100%;
+   margin-top: 40px; 
+   text-align: center;
+}
+
+
+.for-pw > .for-banner {
+    margin-bottom: 20px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.for-find {
+    width: 40%;
+    margin:0 auto;
+    margin-top: 30px;
+    
+}
+.for-form{
+    width: 100%;
+    height: 400px;
+    
+ 
+}
+
+.for-form > .for-group {
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.for-find > .for-btn {
+    margin-top: 20px;
+}

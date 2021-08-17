@@ -1,0 +1,10 @@
+create table users(
+
+     id varchar2(50) primary key,
+     pw varchar2(50) not null,
+     name varchar2(50) not null,
+     email varchar2(50),
+     address varchar2(200),
+     regdate date default sysdate
+     
+);

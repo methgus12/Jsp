@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JDBCBaisc/WebContent/join_succes.jsp&apos; to &apos;join_success.jsp&apos;" description="Rename resource &apos;join_succes.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/join_succes.jsp" name="join_success.jsp" stamp="1619685870603" updateReferences="true"/>
+</session>
